@@ -1,6 +1,6 @@
 ### Hey there, it's me, Naresh! 
 
-If I helped you out in any way, [buy me a beer on Ko-fi 🍻🍻](https://ko-fi.com/nareshkumarrao) 
+If I helped you out in any way, you could [buy me a beer on Ko-fi 🍻🍻](https://ko-fi.com/nareshkumarrao) 
 
 #### Projects I wanna 💖 show off 💖:
 - [**EI Weblog Android**](https://github.com/naresh97/ei-weblog-android)
