@@ -3,6 +3,11 @@
 If I helped you out in any way, you could [buy me a beer on Ko-fi 🍻🍻](https://ko-fi.com/nareshkumarrao) 
 
 #### Projects I wanna 💖 show off 💖:
+
+- [**Robo-Arm**](https://github.com/naresh97/Robo-Arm)
+
+  Still very much a work in progress, but I'm trying to squeeze as much of my C++ knowledge into it as possible! 🤓 I'm building a small tabletop robot arm that I running of an STM32 with the software in this repository. I'm writing a lot of utility code to interface with FreeRTOS and STM's HAL to create clean interfaces that I can use in my application. And although not strictly necessary, I'm trying to get away with using no (or as little as possible) dynamic memory allocation. I'm also really trying to push Static Polymorphism as much as possible, using C++20 Concepts. Oh, and did I mention it's using C++20? 😁
+
 - [**EI Weblog Android**](https://github.com/naresh97/ei-weblog-android)
 
   So my faculty has this web blog where they push important updates all the time. The only problem is that it has **no notifications** 😢. Login every morning into the weblog to check for updates? Nah! I made an Android app that scraped the web blog and give you notifications. Problem solved! As a bonus, it can scrape your grades and give you notifications for those too 🤓
