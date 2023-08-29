@@ -1,8 +1,9 @@
 ### Hey there, it's me, Naresh! 
-
 If I helped you out in any way, you could [buy me a beer on Ko-fi 🍻🍻](https://ko-fi.com/nareshkumarrao) 
 
 #### Projects I wanna 💖 show off 💖:
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=naresh97&show_icons=true&theme=react" width="380">
 
 - [**Robo-Arm**](https://github.com/naresh97/Robo-Arm)
 
@@ -21,5 +22,8 @@ If I helped you out in any way, you could [buy me a beer on Ko-fi 🍻🍻](http
   While doing my Master's Project, I was required to do a lot of configuring of Profinet devices. The problem? Most of the tools for the configuration (I believe the fancy industry word is _projecting_) are proprietary 😢. The absolute **worst** part? Most only run on Windows. WINDOWS! So I had to create my own configuration tool. Written in ✨ **C++** ✨
 
 #### Showing off my ✨**fancy**✨ **qualifications**, since I worked my ass off for them:
+
 - M.Sc. Electrical Engineering and Information Technology (Automation) in 2022 from the University of Applied Sciences, Düsseldorf
 - B.Eng. Physical Engineering in 2019 from the University of Applied Sciences, Aachen
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=naresh97&theme=nord&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
